@@ -1,0 +1,3 @@
+[submodule "Desktop/CfSmartiOS-master-2/Alamofire"]
+	path = Desktop/CfSmartiOS-master-2/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
